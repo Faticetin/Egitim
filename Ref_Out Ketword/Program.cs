@@ -12,20 +12,37 @@ namespace Ref_Out_Ketword
         {
             int a = 20;
             int b = 50;
-            var result=Add(out a, b);
+            var result=Add(ref a, b);
 
             Console.WriteLine(result);
             Console.WriteLine(a);
 
-            Console.ReadKey();
 
+
+
+            int c;
+            int e = 50;
+            var result2 = Add2(out c, e);
+
+            Console.WriteLine(result);
+            Console.WriteLine(a);
+
+
+
+            Console.ReadKey();
         }
 
 
-        static int Add( out int a, int b) 
+        static int Add( ref int a, int b) 
         {
             a = 1;
             return a + b; 
+        }
+
+        static int Add2(out int c, int e)
+        {
+            c = 1;
+            return c + e;
         }
     }
 }

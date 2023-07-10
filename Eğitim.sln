@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref_Out Ketword", "Ref_Out Ketword\Ref_Out Ketword.csproj", "{C2C91EEF-FB85-4F38-B33D-FE4B276947D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{BCF7798B-32D1-4E17-BD17-29B2575700B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C2C91EEF-FB85-4F38-B33D-FE4B276947D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C91EEF-FB85-4F38-B33D-FE4B276947D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C91EEF-FB85-4F38-B33D-FE4B276947D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF7798B-32D1-4E17-BD17-29B2575700B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF7798B-32D1-4E17-BD17-29B2575700B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF7798B-32D1-4E17-BD17-29B2575700B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF7798B-32D1-4E17-BD17-29B2575700B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
