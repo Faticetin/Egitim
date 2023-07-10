@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karar Blokları", "Karar Bl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{83A9E291-1E6C-4AEC-9EAD-C9DCC6726186}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref_Out Ketword", "Ref_Out Ketword\Ref_Out Ketword.csproj", "{C2C91EEF-FB85-4F38-B33D-FE4B276947D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{83A9E291-1E6C-4AEC-9EAD-C9DCC6726186}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83A9E291-1E6C-4AEC-9EAD-C9DCC6726186}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83A9E291-1E6C-4AEC-9EAD-C9DCC6726186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C91EEF-FB85-4F38-B33D-FE4B276947D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C91EEF-FB85-4F38-B33D-FE4B276947D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C91EEF-FB85-4F38-B33D-FE4B276947D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C91EEF-FB85-4F38-B33D-FE4B276947D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
